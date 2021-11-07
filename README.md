@@ -2,5 +2,5 @@
 
 Olá! Sejam todos bem-vindos ao meu livro de receitas
 
-* _**Strogonoff de Frango**_
-
+* _Strogonoff de Frango_
+* _Mousse de Maracujá_
